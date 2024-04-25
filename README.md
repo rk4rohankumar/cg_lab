@@ -128,15 +128,6 @@ Running the file using command in termainl:
 
 ---
 
-Now To set up graphics.h in vs code using MINGW:
-
-alternative video instruction in `hindi` to setup graphics.h lib in vscode
-
-[<img src="https://i.imgur.com/P8xiypZ.png" alt="How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA " width="50%" />](https://www.youtube.com/embed/ijrNSHwXDAc "How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA" )
-
- Alternative step wise instruction to setup MinGW along with graphics library (graphics.h)
-
-- ReadME [MinGW & graphics.h setup](https://github.com/sagargoswami2001/Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
 
 ## Contributors ✨
 
