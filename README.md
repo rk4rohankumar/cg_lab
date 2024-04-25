@@ -114,10 +114,7 @@ int main(){
 
 ### Just `Ctrl+Shift+B` to run the build task you will get the executable file in build folder
 
-![image](./output.png)
 
-![graphics example2](https://user-images.githubusercontent.com/66258652/133919626-3cd671e5-36e4-4315-b4bf-951563fc6913.png)
-![graphics example3](https://user-images.githubusercontent.com/66258652/133919648-c5745fd9-4fb4-49f5-9ca2-2d7b5f54fd85.png)
 
 ## Manual
 
